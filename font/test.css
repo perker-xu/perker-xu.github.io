@@ -1,0 +1,11 @@
+@font-face{
+    font-family: '华文行楷'; 
+    src: url('./font/华文行楷.eot');
+    src: url('./font/华文行楷.woff') format('woff'),
+         url('./font/华文行楷.ttf') format('truetype'),
+         url('./font/华文行楷.svg') format('svg');
+}
+
+/*html中的代码中加一个h1或者其他的，里面写你自己想要的特殊文字*/
+
+.aa{font-size:36px; color: red;font-family: "华文行楷";}
